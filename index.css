@@ -11,13 +11,13 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #263c6b;
+    background: #4aaaa4;
 }
 .wrapper {
     position: relative;
     width: 800px;
     height: 500px;
-    background: linear-gradient(90deg, #262829, #949494);
+    background: linear-gradient(90deg, #273338, #949494);
     border-radius: 50px;
     box-shadow: 0 0 60px rgba(0, 0, 0, .3);
     padding: 60px;
